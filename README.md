@@ -28,4 +28,4 @@ This project was built to gain hands-on experience in building production-ready 
 1. Clone the repository
 2. Run `flutter pub get`
 3. Configure Firebase
-4. Run the app on an emulator or physical device
+4. Run the app on an emulator or physical devices
